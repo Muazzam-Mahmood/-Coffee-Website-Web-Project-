@@ -31,6 +31,7 @@ A modern and responsive coffee landing page ☕ — built with HTML, CSS & JavaS
 ## 📁 Folder Structure
 
 Coffee-Website-Web-Project/
+|
 ├── images/
 ├── index.html
 ├── style.css
@@ -38,6 +39,7 @@ Coffee-Website-Web-Project/
 └── README.md
 
 ---
+
 
 ## 🌐 Live Demo
 
