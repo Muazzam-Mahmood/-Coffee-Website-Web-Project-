@@ -30,15 +30,18 @@ A modern and responsive coffee landing page ☕ — built with HTML, CSS & JavaS
 
 ## 📁 Folder Structure
 
-Coffee-Website-Web-Project/
-|
-├── images/
+## 📁 Folder Structure
+
+coffee-website/
+
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+└── assets/
+    ├── images/
+    ├── icons/
+    └── fonts/
 
----
 
 
 ## 🌐 Live Demo
